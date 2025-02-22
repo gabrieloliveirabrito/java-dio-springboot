@@ -12,8 +12,8 @@ public class Beans {
         System.out.println("CRIANDO OBJETO REMETENTE");
 
         Remetente remetente = new Remetente();
-        remetente.setEmail("noreply@dio.com.br");
-        remetente.setNome("Digital Innovation One");
+//        remetente.setEmail("noreply@dio.com.br");
+//        remetente.setNome("Digital Innovation One");
 
         return remetente;
     }
